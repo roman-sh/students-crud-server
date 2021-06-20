@@ -1,3 +1,3 @@
-const REST_PORT = process.env.REST_PORT || 44329;
+const REST_PORT = process.env.REST_PORT || 3500;
 
 module.exports = { REST_PORT };
