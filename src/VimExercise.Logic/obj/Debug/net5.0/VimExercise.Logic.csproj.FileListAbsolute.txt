@@ -1,0 +1,12 @@
+C:\Users\Aviv\source\repos\VimExercise.Logic\obj\Debug\net5.0\VimExercise.Logic.csproj.AssemblyReference.cache
+C:\Users\Aviv\source\repos\VimExercise.Logic\obj\Debug\net5.0\VimExercise.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aviv\source\repos\VimExercise.Logic\obj\Debug\net5.0\VimExercise.Logic.AssemblyInfoInputs.cache
+C:\Users\Aviv\source\repos\VimExercise.Logic\obj\Debug\net5.0\VimExercise.Logic.AssemblyInfo.cs
+C:\Users\Aviv\source\repos\VimExercise.Logic\obj\Debug\net5.0\VimExercise.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Aviv\source\repos\VimExercise.Logic\bin\Debug\net5.0\VimExercise.Logic.deps.json
+C:\Users\Aviv\source\repos\VimExercise.Logic\bin\Debug\net5.0\VimExercise.Logic.dll
+C:\Users\Aviv\source\repos\VimExercise.Logic\bin\Debug\net5.0\ref\VimExercise.Logic.dll
+C:\Users\Aviv\source\repos\VimExercise.Logic\bin\Debug\net5.0\VimExercise.Logic.pdb
+C:\Users\Aviv\source\repos\VimExercise.Logic\obj\Debug\net5.0\VimExercise.Logic.dll
+C:\Users\Aviv\source\repos\VimExercise.Logic\obj\Debug\net5.0\ref\VimExercise.Logic.dll
+C:\Users\Aviv\source\repos\VimExercise.Logic\obj\Debug\net5.0\VimExercise.Logic.pdb
