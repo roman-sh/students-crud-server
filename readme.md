@@ -7,8 +7,7 @@ These are instructions for your coding exercise. Please read them carefully and 
 We would like to create a system for scheduling appointments with providers (doctors), which would able to:
 
 - Search for providers to set up an appointment with.
-- Select an appointment date from the search results & notifying the provider of the new appointment.
-- Receive requests for adding, updating or deleting providers
+- Verify an appointment date from the search results & book the appointment for the provider. (actually booking is out of scope for this code interview)
 
 Our system supports both synchronous queries and async queries. We use synchronous queries where possible, but sometimes when we rely on slow/unreliable external systems or when we need an event-based workflow we use an async system.
 
