@@ -9,10 +9,7 @@ We would like to create a system for scheduling appointments with providers (doc
 - Search for providers to set up an appointment with.
 - Verify an appointment date from the search results & book the appointment for the provider. (actually booking is out of scope for this code interview)
 
-Our system supports both synchronous queries and async queries. We use synchronous queries where possible, but sometimes when we rely on slow/unreliable external systems or when we need an event-based workflow we use an async system.
-
-- The synchronous queries use REST APIs - one of which you will build.
-- The asynchronous queries use a publish-subscribe (pub-sub) system based on “channels” - _out of scope for this code interview_
+The system use synchronous queries via REST APIs - which you will build.
 
 ### What are we looking for?
 
